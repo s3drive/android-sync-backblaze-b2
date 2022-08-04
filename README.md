@@ -1,3 +1,7 @@
+## This repo has moved
+
+New repo: https://github.com/photosync/android-photosync-s3
+
 ## Sync for Backblaze B2
 
 
